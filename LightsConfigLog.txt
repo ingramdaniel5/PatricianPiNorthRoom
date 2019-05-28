@@ -1,0 +1,6 @@
+{"TimeOn":"8:15 pm","TimeOff":"6:29 am","CurrentDay":"05-22-2019"}
+{"TimeOn":"8:15 pm","TimeOff":"6:29 am","CurrentDay":"05-22-2019"}
+{"TimeOn":"20:15 pm","TimeOff":"06:29 am","CurrentDay":"05-22-2019"}
+{"TimeOn":"20:15","TimeOff":"06:29","CurrentDay":"05-22-2019"}
+{"TimeOn":"20:18","TimeOff":"06:26","CurrentDay":"05-26-2019"}
+{"TimeOn":"20:19","TimeOff":"06:26","CurrentDay":"05-27-2019"}
